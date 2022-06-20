@@ -1,0 +1,31 @@
+﻿.content{
+    width:100%;
+}
+img
+{
+    width:98%;
+    height:300px;
+}
+.content.row{
+    margin-top:10px;
+}
+.content.card
+{
+    width:97% !important;
+    border:none;
+    box-shadow:4px 4px 4px #85C1E9;
+    padding-right:150px !important;
+}
+.footer {
+    position:relative;
+    top:10px;
+    height: 150px;
+    background: #E5E8E8;
+}
+.fa-twitter , .fa-facebook-official {
+    color: #2E86C1;
+}
+.fa-instagram {
+    color: #C0392B;
+}
+
